@@ -11,7 +11,6 @@
   inputs.src-number_files-v0_2_2.ref   = "refs/tags/v0.2.2";
   inputs.src-number_files-v0_2_2.owner = "Araq";
   inputs.src-number_files-v0_2_2.repo  = "number_files";
-  inputs.src-number_files-v0_2_2.dir   = "";
   inputs.src-number_files-v0_2_2.type  = "github";
   
   inputs."nake".owner = "nim-nix-pkgs";
